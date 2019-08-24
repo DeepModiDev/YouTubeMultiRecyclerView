@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555670808026",
+    "firebase_url": "https://multirecyclerview-e42d2.firebaseio.com",
+    "project_id": "multirecyclerview-e42d2",
+    "storage_bucket": "multirecyclerview-e42d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555670808026:android:de3850dd18c50a2e",
+        "android_client_info": {
+          "package_name": "com.deepmodi.youtubemultirecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555670808026-ulkhdfo2hj0pssilbg194m5fbbllg8lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepmodi.youtubemultirecyclerview",
+            "certificate_hash": "13336103e544bd31e3864992c361e4a486d3148d"
+          }
+        },
+        {
+          "client_id": "555670808026-tvoau85rjkh8audu8bpjkm7o8ql32gat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuZTHvaNG342JmqLHO03ccpxCx3YXXELI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555670808026-tvoau85rjkh8audu8bpjkm7o8ql32gat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
